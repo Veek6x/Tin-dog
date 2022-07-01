@@ -173,3 +173,10 @@ footer a{
     margin: 0%;
   }
 }
+@media all and (max-width: 1215px) and (min-width: 992px) {
+  
+  .card-btns{
+    width: 100% !important;
+  }
+}
+
