@@ -158,6 +158,9 @@ footer a{
     transform: rotate(0);
     width: 40%;
   }
+  .nav-link{
+    font-size: 1.8rem;
+  }
 }
 @media all and (max-width: 1347px) and (min-width: 992px) {
   .phone {
