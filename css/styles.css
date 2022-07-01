@@ -161,6 +161,12 @@ footer a{
   .nav-link{
     font-size: 1.8rem;
   }
+  .footer-logos{
+    font-size: 2rem;
+  }
+  footer p{
+    font-size: 1.5rem;
+  }
 }
 @media all and (max-width: 1347px) and (min-width: 992px) {
   .phone {
